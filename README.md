@@ -8,6 +8,10 @@ External Script Editor for Unity that launches a user-defined command and delega
 - Passes file/line/column to your editor via placeholders in a command template.
 - Reuses VS Code’s project generation pipeline and settings UI.
 
+## Install
+Unity Package Manager(UPM) support path query parameter of git package. You can add `https://github.com/tanitta/LanguageServerScriptEditor
+.git` to Package Manager.
+
 ## Setup
 
 1. In Unity, open `Edit > Preferences > External Tools`.
