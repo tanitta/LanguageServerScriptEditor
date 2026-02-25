@@ -1,7 +1,7 @@
 {
-  "name": "com.tanitta.language-server-script-editor",
+  "name": "net.tanitta.language-server-script-editor",
   "displayName": "LanguageServerScriptEditor",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "unity": "2019.4",
   "description": "Unity external script editor that runs a user-defined command and generate .sln/.csproj files.",
   "dependencies": {
