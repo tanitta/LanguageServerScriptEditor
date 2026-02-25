@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 using VSCodeEditor;
 
-namespace LanguageServerScriptEditor
+namespace trit.LanguageServerScriptEditor
 {
     internal sealed class ProjectGenerationAdapter
     {

@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace LanguageServerScriptEditor
+namespace trit.LanguageServerScriptEditor
 {
     [FilePath("ProjectSettings/LanguageServerEditorSettings.asset", FilePathAttribute.Location.ProjectFolder)]
     internal class LanguageServerEditorSettings : ScriptableSingleton<LanguageServerEditorSettings>

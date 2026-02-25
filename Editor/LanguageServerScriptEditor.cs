@@ -8,7 +8,7 @@ using UnityEditor;
 using UnityEngine;
 using VSCodeEditor;
 
-namespace LanguageServerScriptEditor
+namespace trit.LanguageServerScriptEditor
 {
     [InitializeOnLoad]
     public class LanguageServerScriptEditor : IExternalCodeEditor
