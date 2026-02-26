@@ -9,8 +9,7 @@ External Script Editor for Unity that launches a user-defined command and delega
 - Reuses VS Code’s project generation pipeline and settings UI.
 
 ## Install
-Unity Package Manager(UPM) support path query parameter of git package. You can add `https://github.com/tanitta/LanguageServerScriptEditor
-.git` to Package Manager.
+Unity Package Manager(UPM) support path query parameter of git package. You can add `https://github.com/tanitta/LanguageServerScriptEditor.git` to Package Manager.
 
 ## Setup
 
